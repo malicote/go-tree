@@ -2,7 +2,9 @@
 
 A basic ```tree``` implementation in golang.
 
-Tested on OSX.
+Tested on OS X.
+
+build: ```go build tree.go```
 
 usage:
 ```
